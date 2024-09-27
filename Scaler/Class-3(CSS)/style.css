@@ -1,0 +1,10 @@
+h2 {
+    color: blue;
+    background-color: darkseagreen;
+}
+
+h1 {
+    color: magenta;
+}
+
+/* order: Inline css > Internal css > External css */
